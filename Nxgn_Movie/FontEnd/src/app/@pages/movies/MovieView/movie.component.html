@@ -1,0 +1,71 @@
+<div class="sales-list mat-elevation-z4 ">
+  <toaster-container [toasterconfig]="config"></toaster-container>
+  <mat-toolbar>
+
+    <mat-toolbar-row>
+      <span>Movies</span>
+      <span class="pull-right"></span>
+      <button mat-icon-button>
+        <mat-icon (click)="reload();">refresh</mat-icon>
+      </button>
+      <button mat-icon-button>
+        <mat-icon (click)="OnCreateMoviedetails();">add</mat-icon>
+      </button>
+    </mat-toolbar-row>
+  </mat-toolbar>
+  <mat-progress-bar *ngIf="showLoader" [color]="'primary'" [mode]="'indeterminate'" [value]="90" [bufferValue]="'10'">
+  </mat-progress-bar>
+  <mat-list>
+
+    <table flex mat-table [dataSource]="moviesDataSource" class="mat-elevation-z8" matSort>
+
+      <ng-container matColumnDef="select">cd
+      </ng-container>
+      <ng-container matColumnDef="category_id">
+        <th mat-header-cell *matHeaderCellDef><strong>Category</strong> </th>
+        <td mat-cell *matCellDef="let element">
+          {{element.category?.title}}
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="title">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header><strong>Title</strong> </th>
+        <td mat-cell *matCellDef="let element"> {{element.title}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="description">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header><strong>Description</strong></th>
+        <td mat-cell *matCellDef="let element"> {{element.description}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="rating">
+        <th mat-header-cell *matHeaderCellDef><strong>Rating </strong></th>
+        <td mat-cell *matCellDef="let element"> {{element.rating}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="actions">
+        <th mat-header-cell *matHeaderCellDef><strong>Action</strong> </th>
+        <td mat-cell *matCellDef="let element; let i = index;">
+          <div style="min-width:8em;">
+
+            <button mat-icon-button color="warn" (click)="onDeleteMoviedetails(element)" matTooltip="delete Category">
+              <mat-icon>delete</mat-icon>
+            </button>
+            <button mat-icon-button color="accent" (click)="onViewMoviedetails(element)" matTooltip="View Category">
+              <mat-icon>remove_red_eye</mat-icon>
+            </button>
+          </div>
+        </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+
+    <mat-paginator [length]="resultsLength" [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions"
+      showFirstLastButtons (page)="pageEvent = $event">
+
+    </mat-paginator>
+    <p *ngIf="paginator.length === 0">
+      No results found.
+    </p>

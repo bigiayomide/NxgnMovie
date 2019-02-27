@@ -1,0 +1,11 @@
+<perfect-scrollbar style="height: calc(100% - 60px);" (mouseenter)='mouseenter($event)' (mouseleave)="mouseleave($event)">
+  <div fxLayout="column">
+    <div *ngIf="!iconOnly" fxLayoutAlign="space-around center" [style.margin]="'10px 0px'">
+    </div>
+    <div *ngIf="iconOnly" style="height: 100px;" fxLayoutAlign="space-around center">
+    </div>
+    <nxg-sidemenu-item (onLinkClick)="clicklink()" *ngFor="let menu of menus" [menu]="menu" [iconOnly]="iconOnly">
+    </nxg-sidemenu-item>
+  </div>
+
+</perfect-scrollbar>

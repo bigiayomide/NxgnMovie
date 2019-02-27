@@ -1,0 +1,12 @@
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.1\NxgnMovie.Model.dll
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.1\NxgnMovie.Data.csprojAssemblyReference.cache
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.1\NxgnMovie.Data.csproj.CoreCompileInputs.cache
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.1\NxgnMovie.Data.AssemblyInfoInputs.cache
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.1\NxgnMovie.Data.AssemblyInfo.cs
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.1\NxgnMovie.Data.deps.json
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.1\NxgnMovie.Data.dll
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.1\NxgnMovie.Data.pdb
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.1\NxgnMovie.Model.pdb
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.1\NxgnMovie.Data.csproj.CopyComplete
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.1\NxgnMovie.Data.dll
+C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.1\NxgnMovie.Data.pdb
