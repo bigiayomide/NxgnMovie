@@ -1,12 +1,10 @@
 import {
-  Directive,
   Component,
   OnInit,
   Input,
   ViewChild,
   ElementRef,
   Renderer,
-  Renderer2
 } from "@angular/core";
 import { MediaChange, ObservableMedia } from "@angular/flex-layout";
 import { MatSidenav } from "@angular/material";

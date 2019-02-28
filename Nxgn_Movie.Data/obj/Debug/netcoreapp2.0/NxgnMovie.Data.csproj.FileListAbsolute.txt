@@ -12,3 +12,17 @@ C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.0\N
 C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.0\NxgnMovie.Data.csproj.CopyComplete
 C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.0\NxgnMovie.Data.dll
 C:\Users\ayomi\source\repos\Nxgn_Movie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.0\NxgnMovie.Data.pdb
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.0\NxgnMovie.Data.deps.json
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.0\NxgnMovie.Data.runtimeconfig.json
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.0\NxgnMovie.Data.runtimeconfig.dev.json
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.0\NxgnMovie.Data.dll
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.0\NxgnMovie.Data.pdb
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.0\NxgnMovie.Model.dll
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\bin\Debug\netcoreapp2.0\NxgnMovie.Model.pdb
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.0\NxgnMovie.Data.csprojAssemblyReference.cache
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.0\NxgnMovie.Data.csproj.CoreCompileInputs.cache
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.0\NxgnMovie.Data.AssemblyInfoInputs.cache
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.0\NxgnMovie.Data.AssemblyInfo.cs
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.0\NxgnMovie.Data.csproj.CopyComplete
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.0\NxgnMovie.Data.dll
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\Nxgn_Movie.Data\obj\Debug\netcoreapp2.0\NxgnMovie.Data.pdb

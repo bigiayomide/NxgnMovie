@@ -61,7 +61,7 @@ export class MovieComponent implements OnInit {
   pageSize = 10;
   pageIndex = 0;
   pageSizeOptions: number[] = [10, 20, 30, 50];
-  pageMovie: PageEvent;
+  PageEvent: PageEvent;
 
   @ViewChild(MatPaginator) paginator: MatPaginator;
   @ViewChild(MatSort) sort: MatSort;

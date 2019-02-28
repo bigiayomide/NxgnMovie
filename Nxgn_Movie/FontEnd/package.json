@@ -51,7 +51,6 @@
     "chart.js": "^2.7.3",
     "core-js": "^2.5.7",
     "d3": "^5.7.0",
-    "firebase": "^5.5.9",
     "hammerjs": "^2.0.8",
     "highlight.js": "^9.13.1",
     "leaflet": "^1.3.4",

@@ -7,3 +7,12 @@ C:\Users\ayomi\source\repos\Nxgn_Movie\NxgnMovie.Model\obj\Debug\netcoreapp2.0\N
 C:\Users\ayomi\source\repos\Nxgn_Movie\NxgnMovie.Model\obj\Debug\netcoreapp2.0\NxgnMovie.Model.dll
 C:\Users\ayomi\source\repos\Nxgn_Movie\NxgnMovie.Model\obj\Debug\netcoreapp2.0\NxgnMovie.Model.pdb
 C:\Users\ayomi\source\repos\Nxgn_Movie\NxgnMovie.Model\obj\Debug\netcoreapp2.0\NxgnMovie.Model.csprojAssemblyReference.cache
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\NxgnMovie.Model\bin\Debug\netcoreapp2.0\NxgnMovie.Model.deps.json
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\NxgnMovie.Model\bin\Debug\netcoreapp2.0\NxgnMovie.Model.dll
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\NxgnMovie.Model\bin\Debug\netcoreapp2.0\NxgnMovie.Model.pdb
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\NxgnMovie.Model\obj\Debug\netcoreapp2.0\NxgnMovie.Model.csprojAssemblyReference.cache
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\NxgnMovie.Model\obj\Debug\netcoreapp2.0\NxgnMovie.Model.csproj.CoreCompileInputs.cache
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\NxgnMovie.Model\obj\Debug\netcoreapp2.0\NxgnMovie.Model.AssemblyInfoInputs.cache
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\NxgnMovie.Model\obj\Debug\netcoreapp2.0\NxgnMovie.Model.AssemblyInfo.cs
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\NxgnMovie.Model\obj\Debug\netcoreapp2.0\NxgnMovie.Model.dll
+C:\Users\isdev096\Desktop\Nxgn\NxgnMovie\NxgnMovie.Model\obj\Debug\netcoreapp2.0\NxgnMovie.Model.pdb
