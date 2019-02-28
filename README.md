@@ -4,10 +4,13 @@
 # Please make sure you change the connectionstring for both Logging and Database in the appsettings.json file which is relative to NxgnMovie.API
 
 
-# so change `"connectionString": "Data Source=(LocalDb)\\Mssqllocaldb;Initial Catalog=NxgnMovie; Connection Timeout=5; Packet Size=4096;",`
+# so change 
+`"connectionString": "Data Source=(LocalDb)\\Mssqllocaldb;Initial Catalog=NxgnMovie; Connection Timeout=5; Packet Size=4096;",`
 to your appropraite SQL connection String for the logs and 
 
-# change `"DefaultConnection": "Data Source=(LocalDb)\\Mssqllocaldb;Initial Catalog=NxgnMovie; Connection Timeout=5; Packet Size=4096;"`
+# change 
+
+`"DefaultConnection": "Data Source=(LocalDb)\\Mssqllocaldb;Initial Catalog=NxgnMovie; Connection Timeout=5; Packet Size=4096;"`
 to your appropraite connection srng for the Main Database.
 
 
