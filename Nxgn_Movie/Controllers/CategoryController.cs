@@ -19,7 +19,7 @@ namespace NxgnCategory.API.Controllers
     [ProducesResponseType(400)]
     [ProducesResponseType(401)]
     [ProducesResponseType(404)]
-    //[Authorize(Policy = "Bearer")]
+    [Authorize(Policy = "Bearer")]
     public class CategoryController : Controller
     {
         private readonly ICategoryRepository _categoryRepository;

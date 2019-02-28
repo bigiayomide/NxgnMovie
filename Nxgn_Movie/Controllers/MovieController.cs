@@ -20,7 +20,7 @@ namespace NxgnMovie.API.Controllers
     [ProducesResponseType(401)]
     [ProducesResponseType(404)]
     [ProducesResponseType(409)]
-    //[Authorize(Policy = "Bearer")]
+    [Authorize(Policy = "Bearer")]
     public class MovieController : Controller
     {
         private readonly IMovieRepository _movieRepository;
